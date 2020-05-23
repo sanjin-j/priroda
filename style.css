@@ -3,7 +3,7 @@ body {
       font-family: Arial, Helvetica, sans-serif;
       background-color: rgb(240, 241, 241); 
       padding: 15px;
-           
+      background-color:gainsboro;  
 }
 .navbar{
   background-color: rgba(2, 30, 53, 0.705);
@@ -59,9 +59,23 @@ nav ul li  :hover{
   color: #fff;
 }
 .audio{
- height: 25px; 
+ height: 25px;
+ 
+
   
 }
+.song{
+  margin-left: 320px;
+  margin-top: 5px;
+  
+  
+ 
+}
+.xradiostream{
+  display: none;
+  color: #000;
+}
+
 .meni{
   margin-top:25px;
 }
