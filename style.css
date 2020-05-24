@@ -32,7 +32,7 @@ nav ul li  :hover{
   margin-top: 20px;
 }
 .ravna{
-  margin-top: -96px;
+  margin-top: -88px;
 }
 .pozadina{
   background-color: rgba(0, 0, 255, 0.075);
@@ -54,15 +54,18 @@ nav ul li  :hover{
 .dobro{
   background-color: rgba(2, 30, 53, 0.705);
   height: 60px;
-  width: 100%;
-  margin-top: 0px;
-  
+  padding-left: -20px;
+  color: #fff;
 
+}
+.dosli{
+  margin-top: -40px;
 }
 .zelena{
   color: rgba(127, 247, 147, 0.904);
-  
+  margin-left: 10px;
   margin-top: 20px;
+ 
 }
 .zelena1{
   color: rgba(127, 247, 147, 0.479);
@@ -85,8 +88,9 @@ nav ul li  :hover{
 .slike a{
   text-decoration: none;
 }
-.dobro{
-  color: #fff;
+h2 .dobro{
+  
+  margin-left: -20px;
 }
 .audio{
  height: 25px;
