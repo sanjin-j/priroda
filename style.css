@@ -5,22 +5,34 @@ body {
       padding: 15px;
        
 }
-.navbar{
-  background-color: rgba(2, 30, 53, 0.705);
+.navbar {
+ /* background-color: rgba(2, 30, 53, 0.705);*/
+ margin-right: 10px;
+}
 
-}
-nav ul li {
-  padding-left: 25px;
-  
-}
 nav ul li a {
   color: white;
+  background-color: rgba(2, 30, 53, 0.705);
+  
+  
 }
+nav ul{
+  margin-top: 12px;
+}
+
 nav ul li  :hover{
   color: rgba(127, 247, 147, 0.904);
+  
 }
+.sakri{
+  display: none;
+}
+
 .aa{
   margin-top: 20px;
+}
+.ravna{
+  margin-top: -96px;
 }
 .pozadina{
   background-color: rgba(0, 0, 255, 0.075);
@@ -39,9 +51,18 @@ nav ul li  :hover{
   
   
 }
+.dobro{
+  background-color: rgba(2, 30, 53, 0.705);
+  height: 60px;
+  width: 100%;
+  margin-top: 0px;
+  
+
+}
 .zelena{
   color: rgba(127, 247, 147, 0.904);
-  margin-right: 10px;
+  
+  margin-top: 20px;
 }
 .zelena1{
   color: rgba(127, 247, 147, 0.479);
@@ -58,7 +79,7 @@ nav ul li  :hover{
 .zelena4{
   color: rgba(127, 135, 247, 0.589);
   margin-right: 10px;
-  margin-top: 10px;
+ 
   
 }
 .slike a{
@@ -92,6 +113,10 @@ nav ul li  :hover{
 
 .meni{
   margin-top:25px;
+  
+}
+.prevnext{
+  margin-top: 60px;
 }
 
 @media (min-width: 300px) { 
