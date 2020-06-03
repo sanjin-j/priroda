@@ -198,5 +198,9 @@
      transition: transform 0.5 ease-out;
 }}
 
+.carousel{
+  margin-top: 20px;
+}
+
 
  
