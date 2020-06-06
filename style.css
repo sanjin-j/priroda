@@ -10,7 +10,7 @@
      margin-top: 12px;
    }
   nav ul li  :hover{
-    color: rgb(30, 27, 236);
+    color: rgb(89, 89, 92);
    }
    .navbar-toggler {
     padding: 0.25rem 0.75rem;
@@ -20,6 +20,7 @@
     border: 1px solid transparent;
     border-radius: 0.25rem;
   }
+ 
  .audio{
    height: 25px;
   }
@@ -45,7 +46,7 @@
     background-size: cover; 
     background-position: center center; 
     z-index: 0;
-    padding-top: 650px;
+    padding-top: 600px;
     
 
 
@@ -92,6 +93,7 @@
    overflow-y: hidden;
    display: flex;
    margin-top: 10px;
+   margin-right: -14px;
   }
   .bg-dark{
     height: 350px;
@@ -172,12 +174,13 @@
     flex-wrap: nowrap;
     overflow-x: auto;
     padding-left: 15px;
-    
-    
+    margin-right: -15px;
+     
   }
+  
   .vide {
     
-    margin-left: 15px;
+    margin-left: 10px;
     margin-top: 25px;
     
   }
@@ -193,6 +196,7 @@
   }
   .nasvid{
     margin-top: -100px;
+    padding-top: 80px;
   }
  
  
