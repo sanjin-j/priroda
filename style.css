@@ -163,11 +163,12 @@
     display: flex;
     flex-wrap: nowrap;
     overflow-x: auto;
+    padding-left: 15px;
     
   }
   .vide {
     
-    margin-left: 5px;
+    margin-left: 15px;
     
     
   }
