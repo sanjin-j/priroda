@@ -91,8 +91,16 @@
    overflow-x: scroll;
    overflow-y: hidden;
    display: flex;
-   
- }
+   margin-top: 10px;
+  }
+  .bg-dark{
+    height: 350px;
+  }
+  .car{
+   margin-top: 20px;
+   margin-left: 2px;
+  }
+
  .scroll img{
    width: 300px;
    height: 300px;
@@ -165,17 +173,26 @@
     overflow-x: auto;
     padding-left: 15px;
     
+    
   }
   .vide {
     
     margin-left: 15px;
-    
+    margin-top: 25px;
     
   }
   .vide img {
     width: 100%;
     height: 150px;
     
+  }
+  .bg-info{
+    height: 310px;
+    color: #000;
+    
+  }
+  .nasvid{
+    margin-top: -100px;
   }
  
  
