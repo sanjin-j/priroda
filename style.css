@@ -47,16 +47,20 @@
     background-position: center center; 
     z-index: 0;
     padding-top: 600px;
-    
-
-
-    }
+   }
+   #features{
+     padding-top: 10px;
+   }
+  .Nikada{
+    padding-top: 100px;
+  }
 .dk {
     margin-top: px;
     color: #fff;
     
 
     }
+
     .maska{
      background-color: rgba(0, 0, 0, 0.63);
      height: 700px;
