@@ -19,6 +19,17 @@
     background-color: white;
     border: 1px solid transparent;
     border-radius: 0.25rem;
+    
+  }
+  .navbar-rucno {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.rem;
+    line-height: 1;
+    background-color:transparent;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    color: #fff;
+    margin-left: -12px;
   }
  
  .audio{
@@ -200,6 +211,7 @@
     margin-top: -100px;
     padding-top: 80px;
   }
+  
  
  
   
